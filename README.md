@@ -14,4 +14,5 @@ You can try the app live [here](https://music-recommender-3xi5.onrender.com/).
 
 ## Screenshots
 
-![Screenshot](screenshot.png) (replace with a screenshot of your app)
+![Screenshot](![Screenshot (299)](https://github.com/TanmoyGuria/Music-Recommendation-System/assets/127241879/deec69ef-94ea-4b8d-ac39-0721ed52123f)
+) 
