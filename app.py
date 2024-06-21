@@ -47,7 +47,7 @@ def load_lottieurl(url: str):
         return None
     return r.json()
 # Encode the image to base64
-encoded_image =  base64.b64encode(open("Git.png", "rb").read()).decode()
+encoded_image =  base64.b64encode(open("git.png", "rb").read()).decode()
 
 # HTML and CSS to place the image in the topmost corner
 st.markdown(
