@@ -1,0 +1,4 @@
+Requests==2.32.3
+spotipy==2.24.0
+streamlit==1.30.0
+streamlit_lottie==0.0.5
